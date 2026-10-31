@@ -1,1 +1,1 @@
-Dashboard belum di-deploy ke Streamlit Community Cloud.
+https://wldnftrh51-bike-sharing-submission-dashboarddashboard-ygweqc.streamlit.app/
